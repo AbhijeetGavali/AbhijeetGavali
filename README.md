@@ -12,9 +12,9 @@ I'm working with a amazing group of people with role as a Software Engineer Inte
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhijeetGavali&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23" alt="Abhijeet Gavali's Most Used Languages for Coding"/>
 
 #### **LoVed DoIng**
-misMatching SpelIngs in coDe
-Organizing structured document
-Useless traveling
-Introducing New Bugs in program
-Well testing a new Component
+- misMatching SpelIngs in coDe
+- Organizing structured document
+- Useless traveling
+- Introducing New Bugs in program
+- Well testing a new Component
 
