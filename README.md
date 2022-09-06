@@ -7,7 +7,7 @@ You've stumbed upon the Github profile of Abhijeet Gavali, alias `AbhijeetGavali
 I'm a fun-loving geek driven to create things (almost everything in code) as much as I am called to teach others how to do it themselves. I enjoy diving into data and have been known to get lost in JS and it's vast application's at times. I'm passionate about clean codebase, purposeful interfaces and joyous user experiences. I doesn't read lots of books, but few. I'm a de-stress coder, alive human, and engineer by choice.
 
 #### <a href="https://www.scrobits.com/" target="_blanck"><img align="left" height="35" alt="SCROBITS Logo" src="https://scrobits.com/assets/img/logo.png"/></a>
-I'm working with a amazing group of people with role as a <span style="font-size:150%;">Software Engineer Intern</span> joined on 24/08/2022  at [SCROBITS](https://scrobits.com), a startup helping digitalization of businesses across the globe.
+I'm working with a amazing group of people with role as a <span style="font-size:150%;">Software Engineer Intern</span> joined on 24/08/2021  at [SCROBITS](https://scrobits.com), a startup helping digitalization of businesses across the globe.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhijeetGavali&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23" alt="Abhijeet Gavali's Most Used Languages for Coding"/>
 
