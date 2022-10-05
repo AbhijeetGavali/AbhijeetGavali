@@ -18,3 +18,5 @@ I'm working with a amazing group of people with role as a <span style="font-size
 - Introducing New Bugs in program
 - Well testing a new Component
 
+#### **Connect With Me**
+<a href="https://twitter.com/intent/follow?screen_name=AbhijeetBGavali" target="blank"><img src="https://img.shields.io/twitter/follow/AbhijeetBGavali?logo=twitter&style=for-the-badge" alt="Abhijeet Gavali's twitter account"/></a>
